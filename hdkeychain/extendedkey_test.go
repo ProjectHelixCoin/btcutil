@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/phoreproject/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

@@ -7,8 +7,8 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcutil/hdkeychain"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

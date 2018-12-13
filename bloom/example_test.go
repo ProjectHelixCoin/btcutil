@@ -9,9 +9,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil/bloom"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

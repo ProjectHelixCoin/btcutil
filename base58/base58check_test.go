@@ -7,7 +7,7 @@ package base58_test
 import (
 	"testing"
 
-	"github.com/phoreproject/btcutil/base58"
+	"github.com/projecthelixcoin/btcutil/base58"
 )
 
 var checkEncodingStringTests = []struct {

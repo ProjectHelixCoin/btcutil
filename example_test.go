@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 func ExampleAmount() {

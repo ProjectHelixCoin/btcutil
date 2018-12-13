@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil/txsort"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.
